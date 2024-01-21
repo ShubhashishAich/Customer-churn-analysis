@@ -30,7 +30,7 @@ In this project, my goal is to conduct a customer churn analysis and develop a p
 ## Dataset:
 The Customer Churn table contains information on all 7,043 customers from a Telecommunications company in California in Q2 2022.
 <br/>
- [Telco Customer Churn](https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data)
+ [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
  ### The data set includes information about:
 
